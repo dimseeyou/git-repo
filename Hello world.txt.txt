@@ -2,8 +2,8 @@ print("Hello world;")
 print("fuck off;")
 print ("motherfucker;")
 print ("another one beer!;")
-print ("conflict;")
-print("conflict1;")
+print ("conflict;!!!!!!!!;")
+print("conflict1;!!!!")
 
 
 
